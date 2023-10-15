@@ -1,0 +1,14 @@
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\bin\Debug\net7.0\Testing1_console_app.exe
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\bin\Debug\net7.0\Testing1_console_app.deps.json
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\bin\Debug\net7.0\Testing1_console_app.runtimeconfig.json
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\bin\Debug\net7.0\Testing1_console_app.dll
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\bin\Debug\net7.0\Testing1_console_app.pdb
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.AssemblyInfoInputs.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.AssemblyInfo.cs
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.dll
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\refint\Testing1_console_app.dll
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.pdb
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\Testing1_console_app.genruntimeconfig.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\Testing\Testing1_console_app\obj\Debug\net7.0\ref\Testing1_console_app.dll
