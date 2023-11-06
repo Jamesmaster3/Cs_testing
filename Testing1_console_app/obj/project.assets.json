@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jimbe\\OneDrive\\Office\\03. C#\\Testing\\Testing1_console_app\\Testing1_console_app.csproj",
+      "projectUniqueName": "C:\\Users\\jimbe\\OneDrive\\Office\\03. C#\\Cs_testing\\Testing1_console_app\\Testing1_console_app.csproj",
       "projectName": "Testing1_console_app",
-      "projectPath": "c:\\Users\\jimbe\\OneDrive\\Office\\03. C#\\Testing\\Testing1_console_app\\Testing1_console_app.csproj",
+      "projectPath": "C:\\Users\\jimbe\\OneDrive\\Office\\03. C#\\Cs_testing\\Testing1_console_app\\Testing1_console_app.csproj",
       "packagesPath": "C:\\Users\\jimbe\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jimbe\\OneDrive\\Office\\03. C#\\Testing\\Testing1_console_app\\obj\\",
+      "outputPath": "C:\\Users\\jimbe\\OneDrive\\Office\\03. C#\\Cs_testing\\Testing1_console_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jimbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
