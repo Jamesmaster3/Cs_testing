@@ -28,6 +28,8 @@ Console.WriteLine(thingOb.Name);
 // class based (": base(aName, aValue)") on the thing class
 Treasure tr1;
 tr1 = new Treasure("Pot of gold", "A large pot filled with gold coins", 100);
+
+// writing all my objects in a line
 Console.WriteLine($"You found a {tr1.Name} worth {tr1.Value} coins!");
 
 
